@@ -61,4 +61,3 @@ methods to arrive at the best output. We request you to use evaluation metrics s
 Final Output
 - Reproducible R/Python codes used for model building
 - Step by step approach taken in a word document.
-Wish you
