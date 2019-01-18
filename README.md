@@ -1,6 +1,7 @@
 # IMDB---Webscraping-rating-prediction
 
 Assignment 1:
+
 Build a web scraping program to collect data from the IMDB top rated movies list. The link for
 the URL is - IMDB Top rated movies
 
@@ -44,7 +45,8 @@ Final Output -
 - Scraped data in csv/excel format
 
 
-Assignment 2
+Assignment 2:
+
 Assuming the success factor to be the IMDB rating of a movie, can you build a model to predict
 these ratings given a subset of variables from the above data collection exercise.
 For this exercise, you would need to estimate the effect of each of these variables on the output
